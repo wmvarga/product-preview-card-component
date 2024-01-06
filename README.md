@@ -30,6 +30,7 @@ Users should be able to:
 
 ### Links
 
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-product-preview-card-component-v89njHCCvn)
 - Live Site URL: [GitHub Pages](https://wmvarga.github.io/product-preview-card-component-main/)
 
 ## My process
