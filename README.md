@@ -10,7 +10,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -47,8 +46,6 @@ Users should be able to:
 
 I'm working heavily on perfecting Flex and Grid usage. Also, as a byproduct of these challenges, I'm also learning good practices regarding conventions, variables and other styling practices.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
 - [Flex Container Guide](https://origamid.com/projetos/flexbox-guia-completo/) - Quick cheatsheet for Flex Container.
@@ -58,8 +55,6 @@ I'm working heavily on perfecting Flex and Grid usage. Also, as a byproduct of t
 
 - Frontend Mentor - [@wmvarga](https://www.frontendmentor.io/profile/wmvarga)
 - Twitter - [@kazefujin](https://www.twitter.com/kazefujin)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
